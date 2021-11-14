@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366395354369",
+    "project_id": "foody-goody-cf4d9",
+    "storage_bucket": "foody-goody-cf4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366395354369:android:edb633d227bb8e52f57f00",
+        "android_client_info": {
+          "package_name": "com.example.epic_tiny_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366395354369-v6u1hr1f8vkoaikafkmritfsv5237f7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcsjLJxetWqYKKxyY2NgJ5k4fI9vo21kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366395354369-v6u1hr1f8vkoaikafkmritfsv5237f7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
